@@ -6,9 +6,9 @@ Fitur aplikasi:
 3. Dapat menghapus item di halaman cart
 4. Responsif dengan perangkat mobile
 
-Screenshoot:
+### Demo:
 
-<img height="480px" src="https://github.com/Aeologic/flutter_splash_app/blob/master/screens/flutter_splash_demo.gif">
+<img height="480px" src="https://github.com/Flemel1/nextjs-restaurant/blob/master/screenshots/example.gif">
 
 
 ## Instalasi
