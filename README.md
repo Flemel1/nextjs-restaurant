@@ -1,4 +1,6 @@
-Aplikasi Restoran ini dibuat menggunakan framework `Next.js` dan state management menggunakan library `redux-toolkit` 
+Aplikasi Restoran ini dibuat menggunakan framework `Next.js`
+State management menggunakan library `redux-toolkit` 
+Framework CSS menggunakan `tailwind`
 
 Fitur aplikasi:
 1. Menampilkan halaman home, menu dan cart
